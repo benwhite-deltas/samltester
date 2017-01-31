@@ -1,0 +1,17 @@
+{
+    "name": "benwhite-deltas/samltester",
+    "description": "A simple hook into the SAML2 library in order to test your SPs",
+    "type": "project",
+    "license": "ISC License",
+    "authors": [
+        {
+            "name": "Benjamin R. White",
+            "email": "ben@delt.as"
+        }
+    ],
+    "require": {
+        "psr/log": "^1.0",
+        "robrichards/xmlseclibs": "^2.0",
+        "simplesamlphp/saml2": "^2.3"
+    }
+}
